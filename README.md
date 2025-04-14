@@ -216,12 +216,12 @@ app
 
 ### 🏗️ 아키텍처
 
-![ERD_BDL](ERD,%20아키텍처/시스템%20아키텍처_BDL.png)
+<img width="908" alt="스크린샷 2025-04-14 오후 9 19 38" src="https://github.com/user-attachments/assets/a016a9f8-01df-4e6c-8d71-bdb6e01c0ec0" />
 
 
 ### 📚 ERD
 
-![architecture_BDL](ERD,%20아키텍처/ERD_BDL.png)
+<img width="857" alt="스크린샷 2025-04-14 오후 9 19 48" src="https://github.com/user-attachments/assets/ff00ff68-d0e3-417d-b37f-76eafda4597d" />
 
 ---
 
